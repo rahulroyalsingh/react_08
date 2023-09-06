@@ -13,7 +13,7 @@ constructor()
 }
 mango()
 {
-  alert("mango")
+  this.setState({data:"singh"})
 }
 render()
 {
